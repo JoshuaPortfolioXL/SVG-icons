@@ -24,5 +24,5 @@
     title="Anhanguera (Cursos de graduação Cybersecurity)" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/JoshuaPortfolioXL/SVG-icons/blob/main/Anhanguera-VSG.png" 
+    src="https://github.com/JoshuaPortfolioXL/SVG-icons/blob/main/Anhanguera%20SVG%202.png" 
 />
